@@ -1,21 +1,31 @@
-{"jugador1" : { 
+{
+ "jugador1" : { 
       "name": "Namix",
       "icon": 235,
       "col1": 41,
       "col2": 42,
-      "glow": 1},
+      "glow": 1
+      },
  "jugador2" : {
       "name": "Sai",
       "icon": 221,
-      "col1": 0,
-      "col2": 6,
-      "glow": 0},
+      "col1": 6,
+      "col2": 0,
+      "glow": 1
+      },
  "jugador3" : {
       "name": "NachoXD",
       "icon": 210,
-      "col1": 10,
-      "col2": 15,
-      "glow": 1},
+      "col1": 40,
+      "col2": 42,
+      "glow": 1
+      },
+ "botones" : {
+      "btn1": 0,
+      "btn2": 0,
+      "btn3": 0,
+      },
  "fecha" : {
-      "prueba": "06/11/2021"}
+      "prueba": "06/11/2021"
+      }
  }
