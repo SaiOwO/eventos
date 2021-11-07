@@ -1,7 +1,5 @@
-{
-   "jugador1": "SaiOwo",
-   "icono1": 142,
-   "color1_1": 5,
-   "color2_1": 10,
-   "glow1": true
-}
+{"jugador1" : { 
+      "name": "SaiOwO"},
+ "jugador2" : {
+      "name": "Prueba"}
+ }
