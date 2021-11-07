@@ -1,20 +1,20 @@
 {"jugador1" : { 
       "name": "Namix",
       "icon": 235,
-      "col1": 4,
-      "col2": 5,
+      "col1": 41,
+      "col2": 42,
       "glow": 1},
  "jugador2" : {
       "name": "Sai",
       "icon": 221,
-      "col1": 4,
-      "col2": 5,
+      "col1": 0,
+      "col2": 6,
       "glow": 0},
  "jugador3" : {
       "name": "NachoXD",
       "icon": 210,
-      "col1": 4,
-      "col2": 5,
+      "col1": 10,
+      "col2": 15,
       "glow": 1},
  "fecha" : {
       "prueba": "06/11/2021"}
