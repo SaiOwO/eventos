@@ -51,6 +51,7 @@
  "noticia" : {
       "texto": "El siguiente torneo esta planeado que sea para el 20 / 11 / 2021"
       },
+ "participantes" : { 71, 72, 73, 74, 75, 76, 77 },
  "temporada" : {
       "numero": 0
       }
