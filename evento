@@ -3,19 +3,19 @@
       "icon": 142,
       "col1": 4,
       "col2": 5,
-      "glow": false},
+      "glow": 1},
  "jugador2" : {
       "name": "Sai",
       "icon": 142,
       "col1": 4,
       "col2": 5,
-      "glow": false},
+      "glow": 0},
  "jugador3" : {
       "name": "NachoXD",
       "icon": 142,
       "col1": 4,
       "col2": 5,
-      "glow": true},
+      "glow": 1},
  "fecha" : {
       "prueba": "06/11/2021"}
  }
