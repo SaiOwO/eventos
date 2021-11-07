@@ -51,7 +51,14 @@
  "noticia" : {
       "texto": "El siguiente torneo esta planeado que sea para el 20 / 11 / 2021"
       },
- "participantes" : { "ids": { 71, 72, 73, 74, 75, 76, 77 } },
+ "participantes" : { 
+      "max": 5,
+      "id1": 71,
+      "id2": 649,
+      "id3": 79,
+      "id4": 710,
+      "id5": 110
+      },
  "temporada" : {
       "numero": 0
       }
