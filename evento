@@ -1,19 +1,21 @@
 {"jugador1" : { 
-      "name": "SaiOwO",
+      "name": SaiOwO,
       "icon": 142,
       "col1": 4,
       "col2": 5,
       "glow": false},
  "jugador2" : {
-      "name": "Namix",
+      "name": Namix,
       "icon": 142,
       "col1": 4,
       "col2": 5,
       "glow": false},
  "jugador3" : {
-      "name": "NachoXD",
+      "name": NachoXD,
       "icon": 142,
       "col1": 4,
       "col2": 5,
-      "glow": true}
+      "glow": true},
+ "fecha" : {
+       "final": 06/11/2021}
  }
