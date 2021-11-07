@@ -1,18 +1,18 @@
 {"jugador1" : { 
       "name": "Namix",
-      "icon": 142,
+      "icon": 235,
       "col1": 4,
       "col2": 5,
       "glow": 1},
  "jugador2" : {
       "name": "Sai",
-      "icon": 142,
+      "icon": 221,
       "col1": 4,
       "col2": 5,
       "glow": 0},
  "jugador3" : {
       "name": "NachoXD",
-      "icon": 142,
+      "icon": 210,
       "col1": 4,
       "col2": 5,
       "glow": 1},
