@@ -1,6 +1,6 @@
 {
  "jugador1" : { 
-      "name": "Namix",
+      "name": " Namix",
       "icon": 35,
       "col1": 15,
       "col2": 3,
@@ -8,7 +8,7 @@
       "accID": 79
       },
  "jugador2" : {
-      "name": "Sai",
+      "name": " Sai",
       "icon": 236,
       "col1": 8,
       "col2": 40,
@@ -16,7 +16,7 @@
       "accID": 71
       },
  "jugador3" : {
-      "name": "Nintendero65",
+      "name": " Nintendero65",
       "icon": 12,
       "col1": 9,
       "col2": 12,
