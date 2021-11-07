@@ -30,5 +30,8 @@
       },
  "fecha" : {
       "prueba": "06/11/2021"
+      },
+ "temporada" : {
+      "numero": 1
       }
  }
