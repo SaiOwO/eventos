@@ -53,11 +53,11 @@
       },
  "participantes" : { 
       "max": 5,
-      "id1": 71,
-      "id2": 649,
-      "id3": 79,
-      "id4": 710,
-      "id5": 110
+      "id1": "Sai",
+      "id2": "Namix",
+      "id3": "srAlan",
+      "id4": "ElGeniodelQueso",
+      "id5": "NachoXD"
       },
  "temporada" : {
       "numero": 0
