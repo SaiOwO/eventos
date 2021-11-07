@@ -21,9 +21,9 @@
       "glow": 1
       },
  "botones" : {
-      "btn1": 0,
+      "btn1": 1,
       "btn2": 0,
-      "btn3": 0
+      "btn3": 1
       },
  "fecha" : {
       "prueba": "06/11/2021"
