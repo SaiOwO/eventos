@@ -1,11 +1,11 @@
 {"jugador1" : { 
-      "name": "SaiOwO",
+      "name": "Namix",
       "icon": 142,
       "col1": 4,
       "col2": 5,
       "glow": false},
  "jugador2" : {
-      "name": "Namix",
+      "name": "Sai",
       "icon": 142,
       "col1": 4,
       "col2": 5,
@@ -15,5 +15,7 @@
       "icon": 142,
       "col1": 4,
       "col2": 5,
-      "glow": true}
+      "glow": true},
+ "fecha" : {
+      "prueba": "NachoXD"}
  }
