@@ -22,7 +22,7 @@
       },
  "botones" : {
       "btn1": 1,
-      "btn2": 0,
+      "btn2": 1,
       "btn3": 1
       },
  "fecha" : {
