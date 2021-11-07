@@ -48,6 +48,9 @@
  "fecha" : {
       "prueba": "07/11/2021"
       },
+ "noticia" : {
+      "texto": "El siguiente torneo esta planeado que sea para el 20 / 11 / 2021"
+      },
  "temporada" : {
       "numero": 0
       }
