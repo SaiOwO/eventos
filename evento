@@ -23,7 +23,7 @@
  "botones" : {
       "btn1": 0,
       "btn2": 0,
-      "btn3": 0,
+      "btn3": 0
       },
  "fecha" : {
       "prueba": "06/11/2021"
