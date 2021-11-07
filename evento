@@ -5,7 +5,7 @@
       "col1": 41,
       "col2": 42,
       "glow": 1,
-      "accID": 0
+      "accID": 79
       },
  "jugador2" : {
       "name": "Sai",
@@ -21,7 +21,7 @@
       "col1": 40,
       "col2": 42,
       "glow": 1,
-      "accID": 0
+      "accID": 649
       },
  "botones" : {
       "btn1": 1,
