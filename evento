@@ -13,7 +13,7 @@
       "col1": 8,
       "col2": 40,
       "glow": 1,
-      "accID": 0
+      "accID": 71
       },
  "jugador3" : {
       "name": " Nintendero65",
@@ -29,9 +29,9 @@
       "btn3": 1
       },
  "niveles" : {
-      "lvl1": 1,
-      "lvl2": 2,
-      "lvl3": 3,
+      "lvl1": 1057,
+      "lvl2": 215,
+      "lvl3": 350,
       "lvl4": 4,
       "lvl5": 5,
       "lvl6": 6,
