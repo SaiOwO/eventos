@@ -1,30 +1,30 @@
 {
  "jugador1" : { 
       "name": "Namix",
-      "icon": 235,
-      "col1": 41,
-      "col2": 42,
+      "icon": 35,
+      "col1": 15,
+      "col2": 10,
       "glow": 1,
       "accID": 79
       },
  "jugador2" : {
       "name": "Sai",
-      "icon": 221,
-      "col1": 6,
-      "col2": 0,
+      "icon": 236,
+      "col1": 8,
+      "col2": 40,
       "glow": 1,
       "accID": 71
       },
  "jugador3" : {
       "name": "Nintendero65",
-      "icon": 210,
-      "col1": 40,
-      "col2": 42,
-      "glow": 1,
+      "icon": 12,
+      "col1": 9,
+      "col2": 12,
+      "glow": 0,
       "accID": 649
       },
  "botones" : {
-      "btn1": 1,
+      "btn1": 0,
       "btn2": 1,
       "btn3": 1
       },
