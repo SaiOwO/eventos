@@ -49,15 +49,7 @@
       "prueba": "07/11/2021"
       },
  "noticia" : {
-      "texto": "El siguiente torneo esta planeado que sea para el 20 / 11 / 2021"
-      },
- "participantes" : { 
-      "max": 5,
-      "id1": "Sai",
-      "id2": "Namix",
-      "id3": "srAlan",
-      "id4": "ElGeniodelQueso",
-      "id5": "NachoXD"
+      "texto": "El siguiente torneo esta planeado que sea para el -- / -- / 2021"
       },
  "temporada" : {
       "numero": 0
