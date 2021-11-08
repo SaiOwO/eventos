@@ -29,6 +29,7 @@
       "btn3": 1
       },
  "niveles" : {
+      "max": 10,
       "lvl1": 1,
       "lvl2": 2,
       "lvl3": 3,
@@ -55,9 +56,9 @@
       "activado": 0
       },
  "dificultad" : {
-      "lista1": 3,
-      "lista2": 4,
-      "lista3": 5
+      "lista1": 1,
+      "lista2": 2,
+      "lista3": 0
       },
  "exclusivo" : {
       "activado": 0,
