@@ -54,6 +54,19 @@
  "reset" : {
       "activado": 0
       },
+ "dificultad" : {
+      "lista1": 3,
+      "lista2": 4,
+      "lista3": 5
+      },
+ "exclusivo" : {
+      "activado": 0,
+      "id1": 0,
+      "id2": 0,
+      "id3": 0,
+      "id4": 0,
+      "id5": 0
+      },
  "temporada" : {
       "numero": 0
       }
