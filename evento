@@ -1,19 +1,19 @@
 {
  "jugador1" : { 
-      "name": " ",
-      "icon": 0,
-      "col1": 0,
-      "col2": 0,
-      "glow": 0,
-      "accID": 3
+      "name": " ElGeniodelQueso",
+      "icon": 240,
+      "col1": 5,
+      "col2": 15,
+      "glow": 1,
+      "accID": 92
       },
  "jugador2" : {
-      "name": " ",
-      "icon": 0,
-      "col1": 0,
-      "col2": 0,
-      "glow": 0,
-      "accID": 2
+      "name": " Sai",
+      "icon": 232,
+      "col1": 40,
+      "col2": 41,
+      "glow": 1,
+      "accID": 71
       },
  "jugador3" : {
       "name": " ",
@@ -21,12 +21,12 @@
       "col1": 0,
       "col2": 0,
       "glow": 0,
-      "accID": 1
+      "accID": 0
       },
  "botones" : {
       "btn1": 1,
       "btn2": 1,
-      "btn3": 0
+      "btn3": 1
       },
  "dificultad" : {
       "lista1": 3,
@@ -34,7 +34,7 @@
       "lista3": 0
       },
  "niveles" : {
-      "max": 6,
+      "max": 8,
       "lvl1": 96,
       "lvl2": 762,
       "lvl3": 982,
@@ -42,7 +42,7 @@
       "lvl5": 968,
       "lvl6": 2035,
       "lvl7": 1,
-      "lvl8": 1,
+      "lvl8": 2,
       "lvl9": 1,
       "lvl10": 1,
       "lvl11": 1,
@@ -55,7 +55,7 @@
       "prueba": "09/11/2021"
       },
  "noticia" : {
-      "texto": "Torneo de prueba"
+      "texto": "Torneo finalizado - Queso basado"
       },
  "reset" : {
       "activado": 0
