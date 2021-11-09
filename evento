@@ -1,50 +1,50 @@
 {
  "jugador1" : { 
-      "name": " Namix",
-      "icon": 35,
-      "col1": 15,
-      "col2": 3,
-      "glow": 1,
-      "accID": 79
+      "name": " ",
+      "icon": 0,
+      "col1": 0,
+      "col2": 0,
+      "glow": 0,
+      "accID": 3
       },
  "jugador2" : {
-      "name": " Sai",
-      "icon": 236,
-      "col1": 8,
-      "col2": 40,
-      "glow": 1,
-      "accID": 71
+      "name": " ",
+      "icon": 0,
+      "col1": 0,
+      "col2": 0,
+      "glow": 0,
+      "accID": 2
       },
  "jugador3" : {
-      "name": " Nintendero65",
-      "icon": 12,
-      "col1": 9,
-      "col2": 12,
+      "name": " ",
+      "icon": 0,
+      "col1": 0,
+      "col2": 0,
       "glow": 0,
-      "accID": 649
+      "accID": 1
       },
  "botones" : {
       "btn1": 1,
       "btn2": 1,
-      "btn3": 1
+      "btn3": 0
       },
  "niveles" : {
-      "max": 10,
-      "lvl1": 1,
-      "lvl2": 2,
-      "lvl3": 3,
-      "lvl4": 4,
-      "lvl5": 10,
-      "lvl6": 1,
-      "lvl7": 1,
-      "lvl8": 8,
-      "lvl9": 9,
-      "lvl10": 10,
-      "lvl11": 11,
-      "lvl12": 12,
-      "lvl13": 13,
-      "lvl14": 14,
-      "lvl15": 15
+      "max": 3,
+      "lvl1": 0,
+      "lvl2": 0,
+      "lvl3": 0,
+      "lvl4": 0,
+      "lvl5": 0,
+      "lvl6": 0,
+      "lvl7": 0,
+      "lvl8": 0,
+      "lvl9": 0,
+      "lvl10": 0,
+      "lvl11": 0,
+      "lvl12": 0,
+      "lvl13": 0,
+      "lvl14": 0,
+      "lvl15": 0
       },
  "fecha" : {
       "prueba": "08/11/2021"
