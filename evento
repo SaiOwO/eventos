@@ -28,6 +28,11 @@
       "btn2": 1,
       "btn3": 0
       },
+ "dificultad" : {
+      "lista1": 1,
+      "lista2": 0,
+      "lista3": 0
+      },
  "niveles" : {
       "max": 3,
       "lvl1": 0,
@@ -54,11 +59,6 @@
       },
  "reset" : {
       "activado": 0
-      },
- "dificultad" : {
-      "lista1": 1,
-      "lista2": 2,
-      "lista3": 0
       },
  "exclusivo" : {
       "activado": 0,
