@@ -1,18 +1,18 @@
 {
  "jugador1" : { 
-      "name": " ElGeniodelQueso",
-      "icon": 240,
-      "col1": 5,
-      "col2": 15,
-      "glow": 1,
-      "accID": 92
+      "name": " ",
+      "icon": 0,
+      "col1": 0,
+      "col2": 0,
+      "glow": 0,
+      "accID": 0
       },
  "jugador2" : {
-      "name": " Sai",
-      "icon": 232,
-      "col1": 40,
-      "col2": 41,
-      "glow": 1,
+      "name": " ",
+      "icon": 0,
+      "col1": 0,
+      "col2": 0,
+      "glow": 0,
       "accID": 71
       },
  "jugador3" : {
@@ -24,23 +24,23 @@
       "accID": 0
       },
  "botones" : {
-      "btn1": 1,
-      "btn2": 1,
-      "btn3": 1
+      "btn1": 0,
+      "btn2": 0,
+      "btn3": 0
       },
  "dificultad" : {
-      "lista1": 3,
+      "lista1": 0,
       "lista2": 0,
       "lista3": 0
       },
  "niveles" : {
-      "max": 8,
-      "lvl1": 96,
-      "lvl2": 762,
-      "lvl3": 982,
-      "lvl4": 1812,
-      "lvl5": 968,
-      "lvl6": 2035,
+      "max": 1,
+      "lvl1": 0,
+      "lvl2": 0,
+      "lvl3": 0,
+      "lvl4": 0,
+      "lvl5": 0,
+      "lvl6": 0,
       "lvl7": 1,
       "lvl8": 2,
       "lvl9": 1,
@@ -55,10 +55,10 @@
       "prueba": "09/11/2021"
       },
  "noticia" : {
-      "texto": "Torneo finalizado - Queso basado"
+      "texto": " "
       },
  "reset" : {
-      "activado": 0
+      "activado": 1
       },
  "exclusivo" : {
       "activado": 0,
