@@ -25,7 +25,7 @@
       },
  "botones" : {
       "btn1": 0,
-      "btn2": 0,
+      "btn2": 1,
       "btn3": 0
       },
  "dificultad" : {
@@ -34,22 +34,22 @@
       "lista3": 0
       },
  "niveles" : {
-      "max": 1,
+      "max": 30,
       "lvl1": 0,
       "lvl2": 0,
       "lvl3": 0,
       "lvl4": 0,
       "lvl5": 0,
       "lvl6": 0,
-      "lvl7": 1,
-      "lvl8": 2,
-      "lvl9": 1,
-      "lvl10": 1,
-      "lvl11": 1,
-      "lvl12": 1,
-      "lvl13": 1,
-      "lvl14": 1,
-      "lvl15": 1
+      "lvl7": 0,
+      "lvl8": 0,
+      "lvl9": 0,
+      "lvl10": 0,
+      "lvl11": 0,
+      "lvl12": 0,
+      "lvl13": 0,
+      "lvl14": 0,
+      "lvl15": 0
       },
  "fecha" : {
       "prueba": "09/11/2021"
