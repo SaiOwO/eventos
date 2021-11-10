@@ -30,14 +30,14 @@
       },
  "dificultad" : {
       "lista1": 1,
-      "lista2": 2,
-      "lista3": 3,
-      "lista4": 4,
-      "lista5": 5,
-      "lista6": 7,
-      "lista7": 8,
-      "lista8": 9,
-      "lista9": 10
+      "lista2": 0,
+      "lista3": 0,
+      "lista4": 0,
+      "lista5": 0,
+      "lista6": 0,
+      "lista7": 0,
+      "lista8": 0,
+      "lista9": 0
       },
  "niveles" : {
       "max": 45,
