@@ -97,7 +97,7 @@
       "activado": 0
       },
  "exclusivo" : {
-      "activado": 0,
+      "activado": 1,
       "id1": 99999,
       "id2": 99999,
       "id3": 99999,
