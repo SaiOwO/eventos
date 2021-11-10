@@ -91,10 +91,10 @@
       "prueba": "10/11/2021"
       },
  "noticia" : {
-      "texto": ":v"
+      "texto": " "
       },
  "reset" : {
-      "activado": 1
+      "activado": 0
       },
  "exclusivo" : {
       "activado": 0,
