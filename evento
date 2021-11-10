@@ -29,9 +29,9 @@
       "btn3": 0
       },
  "dificultad" : {
-      "lista1": 0,
-      "lista2": 0,
-      "lista3": 0,
+      "lista1": 3,
+      "lista2": 4,
+      "lista3": 5,
       "lista4": 0,
       "lista5": 0,
       "lista6": 0,
@@ -40,7 +40,7 @@
       "lista9": 0
       },
  "niveles" : {
-      "max": 31,
+      "max": 15,
       "lvl1": 0,
       "lvl2": 0,
       "lvl3": 0,
@@ -91,7 +91,7 @@
       "prueba": "10/11/2021"
       },
  "noticia" : {
-      "texto": "Prueba"
+      "texto": ":v"
       },
  "reset" : {
       "activado": 1
