@@ -24,7 +24,7 @@
       "accID": 0
       },
  "botones" : {
-      "btn1": 0,
+      "btn1": 1,
       "btn2": 1,
       "btn3": 0
       },
@@ -88,10 +88,10 @@
       "lvl45": 0
       },
  "fecha" : {
-      "prueba": "09/11/2021"
+      "prueba": "10/11/2021"
       },
  "noticia" : {
-      "texto": "ya no"
+      "texto": "recarga"
       },
  "reset" : {
       "activado": 1
