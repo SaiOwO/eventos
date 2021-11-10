@@ -29,9 +29,15 @@
       "btn3": 0
       },
  "dificultad" : {
-      "lista1": 0,
-      "lista2": 0,
-      "lista3": 0
+      "lista1": 1,
+      "lista2": 2,
+      "lista3": 3,
+      "lista4": 4,
+      "lista5": 5,
+      "lista6": 6,
+      "lista7": 7,
+      "lista8": 8,
+      "lista9": 10
       },
  "niveles" : {
       "max": 30,
@@ -49,7 +55,37 @@
       "lvl12": 0,
       "lvl13": 0,
       "lvl14": 0,
-      "lvl15": 0
+      "lvl15": 0,
+      "lvl16": 0,
+      "lvl17": 0,
+      "lvl18": 0,
+      "lvl19": 0,
+      "lvl20": 0,
+      "lvl21": 0,
+      "lvl22": 0,
+      "lvl23": 0,
+      "lvl24": 0,
+      "lvl25": 0,
+      "lvl26": 0,
+      "lvl27": 0,
+      "lvl28": 0,
+      "lvl29": 0,
+      "lvl30": 0,
+      "lvl31": 0,
+      "lvl32": 0,
+      "lvl33": 0,
+      "lvl34": 0,
+      "lvl35": 0,
+      "lvl36": 0,
+      "lvl37": 0,
+      "lvl38": 0,
+      "lvl39": 0,
+      "lvl40": 0,
+      "lvl41": 0,
+      "lvl42": 0,
+      "lvl43": 0,
+      "lvl44": 0,
+      "lvl45": 0
       },
  "fecha" : {
       "prueba": "09/11/2021"
