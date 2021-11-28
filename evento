@@ -26,7 +26,7 @@
  "botones" : {
       "btn1": 1,
       "btn2": 1,
-      "btn3": 0
+      "btn3": 1
       },
  "dificultad" : {
       "lista1": 0,
@@ -88,7 +88,7 @@
       "lvl45": 0
       },
  "fecha" : {
-      "prueba": "13/11/2021"
+      "prueba": "Finalizo el: 28/11/2021"
       },
  "noticia" : {
       "texto": " "
