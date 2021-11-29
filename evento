@@ -1,6 +1,6 @@
 {
  "jugador1" : { 
-      "name": "Sai",
+      "name": " Sai",
       "icon": 239,
       "col1": 93,
       "col2": 58,
@@ -8,7 +8,7 @@
       "accID": 71
       },
  "jugador2" : {
-      "name": "Lai",
+      "name": " Lai",
       "icon": 167,
       "col1": 3,
       "col2": 12,
@@ -16,7 +16,7 @@
       "accID": 75
       },
  "jugador3" : {
-      "name": "Namix",
+      "name": " Namix",
       "icon": 133,
       "col1": 18,
       "col2": 12,
@@ -29,7 +29,7 @@
       "btn3": 1
       },
  "dificultad" : {
-      "lista1": 0,
+      "lista1": 2,
       "lista2": 0,
       "lista3": 0,
       "lista4": 0,
@@ -40,7 +40,7 @@
       "lista9": 0
       },
  "niveles" : {
-      "max": 1,
+      "max": 5,
       "lvl1": 0,
       "lvl2": 0,
       "lvl3": 0,
@@ -88,7 +88,7 @@
       "lvl45": 0
       },
  "fecha" : {
-      "prueba": "28/11/2021"
+      "prueba": "29/11/2021"
       },
  "noticia" : {
       "texto": " "
