@@ -32,15 +32,15 @@
       "lista1": 2,
       "lista2": 4,
       "lista3": 6,
-      "lista4": 0,
-      "lista5": 0,
+      "lista4": 7,
+      "lista5": 8,
       "lista6": 0,
       "lista7": 0,
       "lista8": 0,
       "lista9": 0
       },
  "niveles" : {
-      "max": 15,
+      "max": 25,
       "lvl1": 0,
       "lvl2": 0,
       "lvl3": 0,
