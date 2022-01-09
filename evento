@@ -97,7 +97,7 @@
       "activado": 0
       },
  "exclusivo" : {
-      "activado": 0,
+      "activado": 1,
       "max": 21,
       "id1": 99999,
       "id2": 99999,
@@ -108,7 +108,7 @@
       "id7": 99999,
       "id8": 99999,
       "id9": 99999,
-      "id10": 71
+      "id10": 0
       },
  "temporada" : {
       "numero": 1
